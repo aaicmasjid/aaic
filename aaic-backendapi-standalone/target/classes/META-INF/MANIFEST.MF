@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: shafi
+Build-Jdk: 17.0.6
+Implementation-Title: aaic-backendapi
+Implementation-Version: 0.0.2-SNAPSHOT
+Implementation-Vendor-Id: com.shafi
+Implementation-URL: 
+Created-By: Maven Integration for Eclipse
+
